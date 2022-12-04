@@ -2,7 +2,7 @@
 
 El Control-Repo de Puppet nos permite automatizar el proceso de agregar cambios al nodo maestro de Puppet.
 
-##Uso
+<h2>Uso</h2>
 
 Para usar este repositorio, deberá clonarlo en su entorno de trabajo, y usar preferiblemente Visual Studio Codecomo el IDE para editar el código Puppet.
 
